@@ -1,0 +1,16 @@
+uvicorn
+streamlit
+requests
+python-dotenv
+langchain
+langchain-google-genai
+langchain-community
+duckduckgo-search
+wikipedia
+arxiv
+pymed
+tavily-python
+
+beautifulsoup4
+faiss-cpu
+chromadb
