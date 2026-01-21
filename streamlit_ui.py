@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 
-API_URL = "https://agent-orchestration-xgsn.onrender.com"
+API_URL = "https://agent-orchestration-xgsn.onrender.com/run"
 
 st.set_page_config(
     page_title="Multi-Agent Research System",
